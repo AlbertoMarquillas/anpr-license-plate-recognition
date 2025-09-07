@@ -54,7 +54,7 @@ anpr-license-plate-recognition/
 
 ```powershell
 # Clone repository
-git clone https://github.com/yourusername/anpr-license-plate-recognition.git
+git clone https://github.com/AlbertoMarquillas/anpr-license-plate-recognition.git
 cd anpr-license-plate-recognition
 
 # (Optional) create virtual environment
